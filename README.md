@@ -1,6 +1,6 @@
 - 👋 Hola, soy @Muriel627
-- Estoy interesada em aprender nuevos lenguajes de programación.
-- 🌱 Estpy aprendiendo c++
+- ✨️Estoy interesada em aprender       nuevos lenguajes de programación.
+- 🌱 Estoy aprendiendo c++
 - 😄 Pronouns: she/her
 
 
